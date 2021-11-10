@@ -4,7 +4,7 @@ import '@testing-library/jest-dom/extend-expect'
 import nock from 'nock';
 
 // Simple test to check if the App component work correctly
-describe('Simple test for Gbooks serach page', () => {
+describe('Simple test for Gbooks search page', () => {
   
   it('Test for input', () => {
     const setSearch = jest.fn((value) => {})
