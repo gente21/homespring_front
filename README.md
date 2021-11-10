@@ -1,4 +1,4 @@
-# Small test for Homespring
+# Small test for Homespring (Frontend in React, Javascript)
 
 To view this project online go to [Homespring Test](https://homespring.codipago.mx/).
 
